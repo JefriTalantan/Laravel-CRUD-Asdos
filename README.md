@@ -1,4 +1,4 @@
-# Laravel-CRUD-Asdos
+# Laravel-CRUD
 
 Aplikasi web berbasis Laravel ini dirancang untuk menyediakan fungsionalitas CRUD yang komprehensif untuk memudahkan manajemen data terkait perkuliahan atau mahasiswa.
 
